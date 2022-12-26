@@ -1,2 +1,5 @@
-# tathan1191.github.io
-Muestra 1
+# Parallax scroll animation
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/isladjan/pen/abdyPBw](https://codepen.io/isladjan/pen/abdyPBw).
+
+Optimize for full screen view.
